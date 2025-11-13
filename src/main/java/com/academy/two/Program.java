@@ -1,4 +1,4 @@
-package com.academy;
+package com.academy.two;
 
 public class Program {
     public static void main(String[] args) {
